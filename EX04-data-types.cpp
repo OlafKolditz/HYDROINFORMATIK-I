@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-  cout << "E323: Size of data types\n";
+  cout << "E04-data-types: Size of data types\n";
 //  system("pwd");
   cout << "Type\tNumber of bytes\n";
   cout << "-----------------------\n";
