@@ -6,7 +6,7 @@ int main()
   cout << "Bitte eine Gleitkommazahl eingeben: ";
   cin >> zahl;
 
-  cout.precision(8);
+  cout.precision(18);
 
   cout << "Standard: \t"               << zahl << endl;
   cout << "showpoint: \t"  << showpoint  << zahl << endl;

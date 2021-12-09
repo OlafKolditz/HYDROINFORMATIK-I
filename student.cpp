@@ -2,8 +2,8 @@
 
 CStudent::CStudent()
 {
-  name_first = "Max";
-  name_last = "Mustermann";
+  name_first = "Maxi";
+  name_last = "Musterfrau";
 }
 
 CStudent::~CStudent()
