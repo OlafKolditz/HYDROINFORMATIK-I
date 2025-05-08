@@ -9,6 +9,7 @@ int main()
   cout << "CStudent *m_std = new CStudent();" << endl;
   cout << "*m_std: What have we created?\t\t : *m_std" << endl;
   cout << "*m_std: What size has it?\t\t : " << sizeof(*m_std) << endl;
+  cout << "*m_std: What have we created?\t\t : &m_std" << endl;
   cout << "&m_std: What have we created?\t\t : " << &m_std << endl;
   cout << "&m_std: What size has it?\t\t : " << sizeof(&m_std) << endl;
   cout << " m_std: What have we created?\t\t : " << m_std << endl;

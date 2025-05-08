@@ -12,9 +12,9 @@
   
 #STUDENT
  $NAME_FIRST
-  James3
+  Zara
  $NAME_LAST
-  Bond1
+  Leander
  $COURSE
   MI6
  $YEAR
@@ -24,9 +24,9 @@
   
 #STUDENT
  $NAME_FIRST
-  James1
+  Lady
  $NAME_LAST
-  Bond3
+  Gaga
  $COURSE
   MI6
  $YEAR
